@@ -1,0 +1,1 @@
+This is another test, but as *.txt (it should ignore this)

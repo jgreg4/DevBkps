@@ -1,0 +1,7 @@
+# Basic Files
+*.txt 			#general note items
+
+
+# Compiled C files
+*.o 			#object files
+
